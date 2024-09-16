@@ -1,0 +1,10 @@
+{
+  "name": "bot-pup",
+  "version": "1.0.0",
+  "description": "A bot for our demo login",
+  "main": "index.js",
+  "type":"module",
+  "dependencies": {
+    "puppeteer": "^23.3.0"
+  }
+}
